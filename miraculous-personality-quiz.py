@@ -15,7 +15,7 @@ def resultats():
                 case 'Marinette':
                     print("Le personnage de l'univers auquel tu ressembles le plus est  M A R I N E T T E  (alias : Ladybug)")
                     print("Son miraculous est celui de la coccinelle et son kwami est Tikki.\n")
-                    print("Marinette est la déléguée de classe mais aussi la gardienne des miraculous, de lourdes reponsabilités pésent sur elle.")
+                    print("Marinette est la déléguée de classe mais aussi la gardienne des miraculous, de lourdes responsabilités pèsent sur elle.")
                     print("Comme Marinette tu es une personne responsable, créative et connectée à ses émotions.")
                     print("Même si tu peux parfois paniquer, ton ingéniosité et ta capacité à rebondir font de toi une héroïne hors pair !")
                 case 'Chloe':
@@ -27,11 +27,11 @@ def resultats():
                     print("Le personnage de l'univers auquel tu ressembles le plus est  A L I X  (alias : Bunnyx)")
                     print("Son miraculous est celui du lapin et son kwami est Fluff.\n")
                     print("Alix est un personnage clé de l'univers, le pouvoir de voyager dans le temps implique de grandes responsabilités et une forte maîtrise.")
-                    print("Comme Alix tu es une personne indépendante et réfléchie. Tu sais prendre du recul face aux situations les plus délicates. Malgrés tout tu restes une personne qui aime le fun et le sport, avec toi on ne s'ennuie jamais !")
+                    print("Comme Alix tu es une personne indépendante et réfléchie. Tu sais prendre du recul face aux situations les plus délicates. Malgré tout tu restes une personne qui aime le fun et le sport, avec toi on ne s'ennuie jamais !")
                 case 'Juleka':
                     print("Le personnage de l'univers auquel tu ressembles le plus est  J U L E K A  (alias : Tigresse Pourpre)")
                     print("Son miraculous est celui du tigre et son kwami est Roarr.\n")
-                    print("Juleka est une personne trés timide, elle a developpé d'autres manières de s'exprimer, c'est une personne trés créative au look incroyablement stylé.")
+                    print("Juleka est une personne très timide, elle a développé d'autres manières de s'exprimer, c'est une personne très créative au look incroyablement stylé.")
                     print("Tu partages la douceur mystérieuse de Juleka, tu as une présence apaisante. Tes proches savent qu'ils peuvent compter sur ton écoute et ta loyauté.")
                 case 'Rose':
                     print("Le personnage de l'univers auquel tu ressembles le plus est  R O S E  (alias : Pigella)")
@@ -64,28 +64,28 @@ def resultats():
                 case 'Kim':
                     print("Le personnage de l'univers auquel tu ressembles le plus est  K I M  (alias : Roi Singe)")
                     print("Son miraculous est celui du singe et son kwami est Xuppu.\n")
-                    print("Kim c'est celui qui se ne prends pas au sérieux, il aime la vie, il aime le sport, et les soucis ? C'est secondaire.")
+                    print("Kim c'est celui qui ne se ne prends pas au sérieux, il aime la vie, il aime le sport, et les soucis ? C'est secondaire.")
                     print("Tu partages l'enthousiasme et la détermination de Kim. Tu es toujours prêt à relever des défis.")
                     print("Ton énergie et ton humour sont contagieux !")
                 case 'Mylene':
                     print("Le personnage de l'univers auquel tu ressembles le plus est  M Y L E N E  (alias : Polymouse)")
                     print("Son miraculous est celui de la souris et son kwami est Mullo.\n")
-                    print("Mylène est un personnage qui fait preuve d'un courage immense en combattant ses peurs. Elle est aussi trés engagée, notamment pour protéger l'environnement.")
-                    print("Comme Mylène, tu es une personne douce et courageuse, mais il ne faut pas trop te chercher, tu n'hésite pas à monter au créneau pour défendre tes convictions !")
+                    print("Mylène est un personnage qui fait preuve d'un courage immense en combattant ses peurs. Elle est aussi très engagée, notamment pour protéger l'environnement.")
+                    print("Comme Mylène, tu es une personne douce et courageuse, mais il ne faut pas trop te chercher, tu n'hésites pas à monter au créneau pour défendre tes convictions !")
                 case 'Alya':
                     print("Le personnage de l'univers auquel tu ressembles le plus est  A L Y A  (alias : Rena Rouge)")
                     print("Son miraculous est celui du renard et son kwami est Trixx.\n")
                     print("Alya est un personnage solaire et est la meilleure alliée de ladybug. C'est quelqu'un de fiable, qui malgré son amour de la vérité, sait garder un secret.")
-                    print("Comme Alya ton intelligence émotionelle est particuliérement développée. Fine stratége, tu sais analyser les situations, prendre du recul et user de ta ruse (en toute éthique) pour parvenir à tes fins !")
+                    print("Comme Alya ton intelligence émotionnelle est particulièrement développée. Fine stratége, tu sais analyser les situations, prendre du recul et user de ta ruse (en toute éthique) pour parvenir à tes fins !")
                 case 'Zoe':
                     print("Le personnage de l'univers auquel tu ressembles le plus est  Z O E  (alias : Vesperia)")
                     print("Son miraculous est celui de l'abeille et son kwami est Pollen.\n")
-                    print("Zoé est un personnage qui brille par sa bienveillance. Elle n'aime pas se faire remarquer mais apprends petit à petit à placer ses limites.")
+                    print("Zoé est un personnage qui brille par sa bienveillance. Elle n'aime pas se faire remarquer mais apprend petit à petit à placer ses limites.")
                     print("Comme Zoé, tu sais faire preuve d'assertivité. Tu inspires les autres par ta force tranquille !")
                 case 'Nathaniel':
                     print("Le personnage de l'univers auquel tu ressembles le plus est  N A T H A N I E L  (alias : Caprikid)")
                     print("Son miraculous est celui de la chèvre et son kwami est Ziggy.\n")
-                    print("Nathaniel est un personnage timide qui s'exprime à travers les bandes dessinées qu'il créé avec son ami Marc.")
+                    print("Nathaniel est un personnage timide qui s'exprime à travers les bandes dessinées qu'il crée avec son ami Marc.")
                     print("Comme Nathaniel tu as l'âme d'un artiste et une imagination débordante !")
                 case 'Adrien':
                     print("Le personnage de l'univers auquel tu ressembles le plus est  A D R I E N  (alias : Chat Noir)")
@@ -100,7 +100,7 @@ def resultats():
                 case 'Marc':
                     print("Le personnage de l'univers auquel tu ressembles le plus est  M A R C  (alias : Coq Courage)")
                     print("Son miraculous est celui du COQ  et son kwami est Orikko.\n")
-                    print("Marc est un personnage qui est entravé par sa grande timidité au quotidien, lorsqu'il se transforme en Coq Courage il apprends l'acceptation de soi et peut faire preuve de son plein potentiel.")
+                    print("Marc est un personnage qui est entravé par sa grande timidité au quotidien, lorsqu'il se transforme en Coq Courage il apprend l'acceptation de soi et peut faire preuve de son plein potentiel.")
                     print("Comme Marc tu as l'âme d'un artiste. Bien que timide, tu sais faire preuve de courage pour défendre tes convictions.")
         resultat_transmis = True
 
@@ -217,7 +217,7 @@ match rep_1:
 
 # Question 2
 print("Question 2 :")
-q = "Si tu était une saison tu serais...?"
+q = "Si tu étais une saison tu serais...?"
 r1 = "1) l'hiver : concentration, force brute, élégance"
 r2 = "2) le printemps : pétillant et créatif"
 r3 = "3) l'été : solaire et énergique"
