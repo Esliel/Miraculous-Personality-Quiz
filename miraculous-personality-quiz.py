@@ -99,7 +99,7 @@ def resultats():
                     print("Comme Ivan, tu combines force et douceur. Tes proches peuvent compter sur toi, tu es le pilier sur lequel ils savent pouvoir toujours s'appuyer.")
                 case 'Marc':
                     print("Le personnage de l'univers auquel tu ressembles le plus est  M A R C  (alias : Coq Courage)")
-                    print("Son miraculous est celui du COQ  et son kwami est Orikko.\n")
+                    print("Son miraculous est celui du coq  et son kwami est Orikko.\n")
                     print("Marc est un personnage qui est entravé par sa grande timidité au quotidien, lorsqu'il se transforme en Coq Courage il apprend l'acceptation de soi et peut faire preuve de son plein potentiel.")
                     print("Comme Marc tu as l'âme d'un artiste. Bien que timide, tu sais faire preuve de courage pour défendre tes convictions.")
         resultat_transmis = True
@@ -157,7 +157,7 @@ resultat_transmis = False
 # Début des questions à user
 
 # Message introductif
-input("Bonjour et bienvenue dans ce programme !\nExplorons ensembles l'univers de Miraculous Ladybug : ce test propose de découvrir à quel personnage héroïque de cet univers tu ressembles le plus :)\nUne courte série de questions sur tes goûts et ta personnalité va t'être posée. Il te suffit de répondre à chaque question par le chiffre correspondant à ta réponse (par exemple '1) puis d'appuyer sur 'Entrée'.\nIl s'agit bien entendu d'un programme à but ludique ne prétendant aucunement refléter une quelconque vérité.\nAppuie sur Entrée pour continuer...")
+input("Bonjour et bienvenue dans ce programme !\nExplorons ensemble l'univers de Miraculous Ladybug : ce test propose de découvrir à quel personnage héroïque de cet univers tu ressembles le plus :)\nUne courte série de questions sur tes goûts et ta personnalité va t'être posée. Il te suffit de répondre à chaque question par le chiffre correspondant à ta réponse (par exemple '1) puis d'appuyer sur 'Entrée'.\nIl s'agit bien entendu d'un programme à but ludique ne prétendant aucunement refléter une quelconque vérité.\nAppuie sur Entrée pour continuer...")
 
 # Question 1 : défini le groupe de genre (masculin (m), féminin (f), neutre (n))
 print("C'est parti ! Première question :")
@@ -217,7 +217,7 @@ match rep_1:
 
 # Question 2
 print("Question 2 :")
-q = "Si tu étais une saison tu serais...?"
+q = "Si tu étais une saison, tu serais...?"
 r1 = "1) l'hiver : concentration, force brute, élégance"
 r2 = "2) le printemps : pétillant et créatif"
 r3 = "3) l'été : solaire et énergique"
@@ -284,7 +284,7 @@ q = "Si tu devais choisir un métier ?"
 r1 = "1) Un métier qui te permette d'être sur le devant de la scène (DJ, musicien.ne, comédien.ne,...)"
 r2 = "2) Un métier qui te permette d'exercer toute ta créativité (écrivain.ne, mangaka, luthier.e, styliste,...)"
 r3 = "3) Un métier engagé (journaliste, forces de l'ordre, travail dans une ONG, ...)"
-r4 = "4) Un métier intellectuel (recherche en science ou sciences humaines, ingènieur,e, ...)"
+r4 = "4) Un métier intellectuel (recherche en science ou sciences humaines, ingénieur,e, ...)"
 r5 = "5) Faire du sport au niveau professionnel"
 r6 = "6) Honnêtement tu n'en sais rien pour le moment, tu te cherches encore"
 print("Question 4 :")
@@ -341,10 +341,10 @@ ressemblant = []
 maj_ressemblant()
 
 # Print Result & Gestion des ex-aequos
-print("Bravo, tu as fini de répondre aux questions principales ! Nous calculons les score et, si besoin, pour affiner nos résultats nous allons te poser une ou plusieurs questions supplémentaires...\n...\n...")
+print("Bravo, tu as fini de répondre aux questions principales ! Nous calculons les scores et, si besoin, pour affiner nos résultats nous allons te poser une ou plusieurs questions supplémentaires...\n...\n...")
 q = "Quel type d'acolyte es-tu ?"
 r1 = "1) Le bouclier :  la personne qui n'hésite pas à prendre publiquement la défense de ses proches"
-r2 = "2) L'oreille attentive : la personne avec qui l'on a de longues discussion qui les aide à mieux se connaître eux mêmes"
+r2 = "2) L'oreille attentive : la personne avec qui l'on a de longues discussions qui les aide à mieux se connaître eux-mêmes"
 r3 = "3) L'esprit scientifique : la personne avec qui on refait le monde sur des bases scientifiques entre deux parties de jeu vidéo et une série de SF"
 r4 = "4) Aux petits soins : la personne qui fait tout ce qui est dans son pouvoir pour aider ses proches"
 r5 = "5) L'humoriste / le bon-public : la personne qui apprécie particulièrement l'humour"
@@ -441,7 +441,7 @@ match rep_b2:
 maj_ressemblant()
 
 # Print Result & Gestion des ex-aequos 3
-q = "Face à l'adversité, sur laquelle de tes qualités tu peux le plus compter pour parvenir à tes fins ? "
+q = "Face à l'adversité, sur laquelle de tes qualités peux-tu le plus compter pour parvenir à tes fins ? "
 r1 = "1) Ton audace"
 r2 = "2) Ta créativité"
 r3 = "3) Ta gentillesse"
@@ -496,7 +496,7 @@ match rep_b3:
 maj_ressemblant()
 
 # Print Result & Gestion des ex-aequos 4
-q = "Tu as le choix cet aprés-midi de retrouver des collégues pour une activité loisir, à coup tu choisis..."
+q = "Tu as le choix cet après-midi de retrouver des collègues pour une activité loisir, à coup tu choisis..."
 r1 = "1) du sport !"
 r2 = "2) de la musique !"
 r3 = "3) jeux vidéos sinon rien !"
